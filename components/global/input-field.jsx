@@ -1,3 +1,4 @@
+
 import React from "react";
 
 const InputField=({label,type='text',value,onChange,placeholder,error,name})=>(
